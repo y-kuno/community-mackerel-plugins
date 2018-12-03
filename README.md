@@ -1,17 +1,19 @@
 # community-mackerel-plugins
 
 A curated list of community mackerel and check plugins for Mackerel.  
-Detailed specs of Installing plugins can be viewed here.
 
-- Document: [ENG](https://mackerel.io/docs/entry/advanced/install-plugin-by-mkr), [JPN](https://mackerel.io/ja/docs/entry/advanced/install-plugin-by-mkr)
+## Official Plugins
 
-## Official Plugin Registry
+- [mackerelio/mackerel-agent-plugins](https://github.com/mackerelio/mackerel-agent-plugins)
+- [mackerelio/go-check-plugins](https://github.com/mackerelio/go-check-plugins)
 
-[mackerelio/plugin-registry](https://github.com/mackerelio/plugin-registry)
+### Official Plugin Registry
+
+- [mackerelio/plugin-registry](https://github.com/mackerelio/plugin-registry)
 
 Registered plugins can be installed by `mkr plugin install <plugin_name>`.
 
-## Community Plugin
+## Community Plugins
 
 Documentation for each plugin is located in its respective link.
 
