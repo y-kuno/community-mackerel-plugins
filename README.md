@@ -28,6 +28,7 @@ Documentation for each plugin is located in its respective link.
 - [mackerel-plugin-network](https://github.com/y-kuno/mackerel-plugin-network)
 - [mackerel-plugin-nfs](https://github.com/y-kuno/mackerel-plugin-nfs)
 - [mackerel-plugin-postgres-table](https://github.com/y-kuno/mackerel-plugin-postgres-table)
+- [mackerel-plugin-pg-table-count](https://github.com/y-kuno/mackerel-plugin-pg-table-count)
 - [mackerel-plugin-tomcat](https://github.com/y-kuno/mackerel-plugin-tomcat)
 - [mackerel-plugin-zookeeper](https://github.com/y-kuno/mackerel-plugin-zookeeper)
 
