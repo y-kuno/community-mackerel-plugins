@@ -20,10 +20,11 @@ Documentation for each plugin is located in its respective link.
 ### mackerel plugins
 
 - [mackerel-plugin-aws-billing](https://github.com/littlekbt/mackerel-plugin-aws-billing)
-- [mackerel-plugin-oracle](https://github.com/mattn/mackerel-plugin-oracle)
 - [mackerel-plugin-linux-proc-stats](https://github.com/tkuchiki/mackerel-plugin-linux-proc-stats)
 - [mackerel-plugin-ltsv-accesslog](https://github.com/nashiox/mackerel-plugin-ltsv-accesslog)
+- [mackerel-plugin-oracle](https://github.com/mattn/mackerel-plugin-oracle)
 - [mackerel-plugin-mesos](https://github.com/y-kuno/mackerel-plugin-mesos)
+- [mackerel-plugin-mongodb-slow-queries](https://github.com/rinmu/mackerel-plugin-mongodb-slow-queries)
 - [mackerel-plugin-network](https://github.com/y-kuno/mackerel-plugin-network)
 - [mackerel-plugin-nfs](https://github.com/y-kuno/mackerel-plugin-nfs)
 - [mackerel-plugin-postgres-table](https://github.com/y-kuno/mackerel-plugin-postgres-table)
