@@ -25,6 +25,7 @@ Documentation for each plugin is located in its respective link.
 - [mackerel-plugin-ltsv-accesslog](https://github.com/nashiox/mackerel-plugin-ltsv-accesslog)
 - [mackerel-plugin-oracle](https://github.com/mattn/mackerel-plugin-oracle)
 - [mackerel-plugin-mesos](https://github.com/y-kuno/mackerel-plugin-mesos)
+- [mackerel-plugin-mirakurun](https://github.com/vvisteria/mackerel-plugin-mirakurun)
 - [mackerel-plugin-mongodb-slow-queries](https://github.com/rinmu/mackerel-plugin-mongodb-slow-queries)
 - [mackerel-plugin-network](https://github.com/y-kuno/mackerel-plugin-network)
 - [mackerel-plugin-nfs](https://github.com/y-kuno/mackerel-plugin-nfs)
