@@ -35,3 +35,5 @@ Documentation for each plugin is located in its respective link.
 - [mackerel-plugin-zookeeper](https://github.com/y-kuno/mackerel-plugin-zookeeper)
 
 ### check plugins
+
+- [go-check-orchestrator](https://github.com/mcrauwel/go-check-orchestrator)
