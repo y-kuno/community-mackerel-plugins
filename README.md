@@ -20,6 +20,7 @@ Documentation for each plugin is located in its respective link.
 ### mackerel plugins
 
 - [mackerel-plugin-aws-billing](https://github.com/littlekbt/mackerel-plugin-aws-billing)
+- [mackerel-plugin-disk](https://github.com/y-kuno/mackerel-plugin-disk)
 - [mackerel-plugin-linux-proc-stats](https://github.com/tkuchiki/mackerel-plugin-linux-proc-stats)
 - [mackerel-plugin-ltsv-accesslog](https://github.com/nashiox/mackerel-plugin-ltsv-accesslog)
 - [mackerel-plugin-oracle](https://github.com/mattn/mackerel-plugin-oracle)
