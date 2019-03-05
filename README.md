@@ -21,6 +21,7 @@ Documentation for each plugin is located in its respective link.
 
 - [mackerel-plugin-aws-billing](https://github.com/littlekbt/mackerel-plugin-aws-billing)
 - [mackerel-plugin-awsbilling](https://github.com/yhidetoshi/mackerel-plugin-awsbilling)
+- [mackerel-plugin-elasticsearch-cluster-stats](https://github.com/holidayworking/mackerel-plugin-elasticsearch-cluster-stats)
 - [mackerel-plugin-disk](https://github.com/y-kuno/mackerel-plugin-disk)
 - [mackerel-plugin-jolokia](https://github.com/y-kuno/mackerel-plugin-jolokia)
 - [mackerel-plugin-linux-proc-stats](https://github.com/tkuchiki/mackerel-plugin-linux-proc-stats)
