@@ -29,6 +29,7 @@ Documentation for each plugin is located in its respective link.
 - [mackerel-plugin-ltsv-accesslog](https://github.com/nashiox/mackerel-plugin-ltsv-accesslog)
 - [mackerel-plugin-oracle](https://github.com/mattn/mackerel-plugin-oracle)
 - [mackerel-plugin-mesos](https://github.com/y-kuno/mackerel-plugin-mesos)
+- [mackerel-plugin-minio](https://github.com/toVersus/mackerel-plugin-minio)
 - [mackerel-plugin-mirakurun](https://github.com/vvisteria/mackerel-plugin-mirakurun)
 - [mackerel-plugin-mongodb-slow-queries](https://github.com/rinmu/mackerel-plugin-mongodb-slow-queries)
 - [mackerel-plugin-network](https://github.com/y-kuno/mackerel-plugin-network)
@@ -41,4 +42,5 @@ Documentation for each plugin is located in its respective link.
 
 ### check plugins
 
+- [check-ftp](https://github.com/ch1aki/check-ftp)
 - [go-check-orchestrator](https://github.com/mcrauwel/go-check-orchestrator)
